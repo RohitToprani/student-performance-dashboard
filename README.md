@@ -18,7 +18,7 @@ Performance Level Analysis (Top / Average / Weak)
  Interactive filtering using slicers
 
 Dashboard Preview
-![Dashboard](dashboard.png)
+![Dashboard](dashboard_result2.png)
 
 Key Insights
 80% of students passed overall
