@@ -31,3 +31,6 @@ To transform raw student data into meaningful insights using Excel and build an 
 
 Outcome
 This project demonstrates strong foundational skills in Excel, data analysis, and dashboard creation.
+
+Connect With Me
+LinkedIn: https://www.linkedin.com/in/rohit-toprani-18a88a311?utm_source=share_via&utm_content=profile&utm_medium=member_ios 
